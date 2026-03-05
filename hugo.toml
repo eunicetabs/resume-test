@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/eunicetabs/resume-site.git'
-languageCode = 'en-us'
-title = 'Technical Communications'
-theme = 'ananke'
+baseURL = "https://eunicetabs.github.io/resume-site/"
+languageCode = "en-us"
+title = "Technical Communications"
+theme = "ananke"
