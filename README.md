@@ -1,6 +1,6 @@
 # README
 # Hosting a Resume using Hugo
-This README describes the practical and technical steps of formatting and hosting a resume using Hugo. Hugo is a static site generator that allows you to locally run a website on your computer. This local website can then be uploaded to a forge. A forge is a platform that allows anybody to upload their code, and allows others to create changes to that code. 
+This README describes the practical and technical steps of formatting and hosting a resume using Hugo, and publishing it onto GitHub. Hugo is a static site generator that allows you to locally run a website on your computer. This local website can then be uploaded to a forge. A forge is a platform that allows anybody to upload their code, and allows others to create changes to that code. 
 
 ## Getting Started 
 ### Prerequisites
@@ -9,7 +9,8 @@ This README describes the practical and technical steps of formatting and hostin
 - Ability to do basic operations on the command line (changing directories and running commands)
 
 ### Instructions
-**Creating the site locally**
+**Creating the site locally**  
+
 1. Open up Command Line
 2. Create a new site using the "*hugo new site yourSiteName*" command
 3. Add a theme
@@ -34,6 +35,7 @@ git push -u origin main
 4. Create a file name hugo.yml
 5. Copy and paste the [YAML](https://gohugo.io/host-and-deploy/host-on-github-pages/) into hugo.yml
 6. Commit the changes
+7. Push onto Github
 
 
 
@@ -50,10 +52,10 @@ git push -u origin main
 Markdown is a lightweight markup language, which means that it is human readable in its raw form. It's easier to learn than HTML therefore anybody even with little expirience is able to create a Markdown file.  
 
 **I changed the Markdown version of my resume, so why don't I see the changes when I refresh the website in my browser?**  
-Double check to make sure that you are saving those changes and hard refreshing the website. 
+Double check to make sure that you are saving those changes, commiting, and pushing onto GitHub. 
 
 ### Credits
 I would like to give credit to those who have contributed with this project
-- **Lara:** Reviewed the project
-- **Palak:** Reviewed the project
+- **Lara De Leon:** Reviewed the project
+- **Palak Patel:** Reviewed the project
 - **[Hugo Themes:](https://themes.gohugo.io/)** Allowed me to use a theme
