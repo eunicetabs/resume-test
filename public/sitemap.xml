@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/eunicetabs/resume-site.git/posts/</loc>
+    <loc>http://localhost:1313/resume-test/resume/</loc>
     <lastmod>2026-03-05T03:05:49-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/eunicetabs/resume-site.git/posts/resume/</loc>
+    <loc>http://localhost:1313/resume-test/</loc>
     <lastmod>2026-03-05T03:05:49-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/eunicetabs/resume-site.git/</loc>
-    <lastmod>2026-03-05T03:05:49-06:00</lastmod>
+    <loc>http://localhost:1313/resume-test/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/eunicetabs/resume-site.git/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/eunicetabs/resume-site.git/tags/</loc>
+    <loc>http://localhost:1313/resume-test/tags/</loc>
   </url>
 </urlset>

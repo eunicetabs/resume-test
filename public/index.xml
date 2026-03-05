@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical Communications</title>
-    <link>http://localhost:1313/eunicetabs/resume-site.git/</link>
+    <link>http://localhost:1313/resume-test/</link>
     <description>Recent content on Technical Communications</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Mar 2026 03:05:49 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/eunicetabs/resume-site.git/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/resume-test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/eunicetabs/resume-site.git/posts/resume/</link>
+      <link>http://localhost:1313/resume-test/resume/</link>
       <pubDate>Thu, 05 Mar 2026 03:05:49 -0600</pubDate>
-      <guid>http://localhost:1313/eunicetabs/resume-site.git/posts/resume/</guid>
+      <guid>http://localhost:1313/resume-test/resume/</guid>
       <description>&lt;h1 id=&#34;eunice-taborlupa&#34;&gt;Eunice Taborlupa&lt;/h1&gt;&#xA;&lt;p&gt;(204) 123-4567&lt;br&gt;&#xA;&lt;a href=&#34;mailto:eunicetaborlupa0@gmail.com&#34;&gt;eunicetaborlupa0@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;linkedin.com/in/eunicet&lt;/p&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;University of Manitoba, B.S. in Computer Science&lt;/strong&gt; &lt;br&gt;&#xA;&lt;em&gt;Sep 2024 - Present&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;Relevant Coursework:&lt;/em&gt; Data Structures and Algorithms, Technical Communications in Computer Science, Programming Paradigms&lt;br&gt;&#xA;&lt;em&gt;Member:&lt;/em&gt; Computer Science Student Association (CSSA)&lt;/p&gt;&#xA;&lt;h2 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Programming Languages:&lt;/em&gt; HTML, Java, C++, JavaScript, Python&lt;br&gt;&#xA;&lt;em&gt;Framework &amp;amp; Tools:&lt;/em&gt; GitHub, React, VsCode&lt;/p&gt;&#xA;&lt;h2 id=&#34;work-expiriences&#34;&gt;Work Expiriences&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Royal Bank of Canada&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Leadership Development Intern&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;Jan 2026 - Present&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Partnered with management to ensure effectiveness of the branch&lt;/li&gt;&#xA;&lt;li&gt;Adressed local community needs through management practices&lt;/li&gt;&#xA;&lt;li&gt;Ensured high employee engagement through talent management, development, and career planning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Smartrend Manufacturing Group&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Network Support Co-op Analyst&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;Jan 2025 - Sep 2025&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
