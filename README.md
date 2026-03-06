@@ -1,23 +1,32 @@
 # README
 # Hosting a Resume using Hugo
-This README describes the practical and technical steps of formatting and hosting a resume using Hugo, and publishing it onto GitHub. Hugo is a static site generator that allows you to locally run a website on your computer. This local website can then be uploaded to a forge. A forge is a platform that allows anybody to upload their code, and allows others to create changes to that code. 
+This README describes the practical and technical steps of formatting and hosting a resume using Hugo, and publishing it onto GitHub. Hugo is a static site generator that allows you to locally run a website on your computer. This local website can then be uploaded to a Distributed Version Control System (DVCS), like GitHub. A DVSC you to post the local site onto a public server, such that others can see your projects and change it if you allow them to.
 
 ## Getting Started 
 ### Prerequisites
 - Must have [Git](https://github.com/git-guides/install-git) and [Hugo](https://www.youtube.com/watch?v=8BrADPJgA-4) installed   
-- Some knowledge about markdown
+- Some knowledge about Markdown
 - Ability to do basic operations on the command line (changing directories and running commands)
 
 ### Instructions
-**Creating the site locally**  
+**Create A Resume with Markdown**  
+Andrew Etter's book praises the use of a lightweight Markup languages like Markdown. He points out that one of the main principles about technical writing is that everybody is a contributor. Therefore markdown is a great tool to use for technical writing. 
+1. Open a text editor, like vsCode
+2. Create a file titled resume.md
+
+
+**Creating the site locally**   
+Andrew Etter's book recommends the usage of static websites because of their speed, simplicity, portability and security. The static site generator, or Forge, we use is Hugo. 
 
 1. Open up Command Line
 2. Create a new site using the "*hugo new site yourSiteName*" command
 3. Add a theme
-4. Create a Markdown file with a resume 
+4. Create a Markdown file with a resume
+5. Place the Markdown file into the content folder
 5. Preview using the "*hugo server*" command  
 
 **Pushing the site onto GitHub**  
+Andrew Etter states that DVCS have better performance and allows for offline work.
 1. Create a GitHub account if you do not already have one
 2. Create a repository 
 3. Type these commands in the command line  
@@ -28,7 +37,8 @@ git branch -M main
 git remote add origin  INSERT GITHUB DOMAIN
 git push -u origin main
 
-**Deploying**
+**Deploying**    
+Andrew Etter praises Git for its amazing job at tracking changes over time, viewing the change log, and so many other features. 
 1. Go to GitHub 
 2. Click on Settings > Pages 
 3. Change the Source to GitHub Actions
